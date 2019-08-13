@@ -9,7 +9,7 @@ class Dog
     @name
   end
   
-  def with_names=(name)
+  def dog_with_names=(name)
     name = @name 
   end
   
